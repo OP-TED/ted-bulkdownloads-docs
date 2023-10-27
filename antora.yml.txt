@@ -1,0 +1,9 @@
+name: bulkdownloads
+version: ~
+title: TED Bulk Downloads
+start_page: ROOT:index.adoc
+asciidoc:
+  attributes:
+    page-toclevels: 6@
+nav:
+- modules/ROOT/nav.adoc
