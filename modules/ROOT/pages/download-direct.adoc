@@ -1,11 +1,114 @@
+:doctitle:
+
+== Download packages using a direct link:
+
+To download packages via a direct link, the URL needs to be formatted in a specific way:
+
+=== The URL format for daily packages is in the following format:
+
+\https://{ted-url}/packages/notice/daily/{yyyynnnnn},
+
+where *{yyyynnnnn}* is the *OJ S number*.
+
+*Example:* to download the daily package of the OJ S 1 / 2023, the URL would be:
+
+"https://gamma.tedv2.spikeseed.cloud/packages/daily/202300001"
 
 
-[TIP]
-====
-No need to sign in to download the daily or monthly packages.
-====
+=== The URL format for monthly packages is in the following format:
 
-[NOTE]
-====
-The ftp #server# (service?) is not available in the TED portal
-====
+\https://{ted-url}/packages/notice/monthly/{yyyy-n},
+
+where *{yyyy-n}* is *the year and the month*.
+
+*Example:* to download the monthly package of January 2023, the URL would be:
+
+"https://gamma.tedv2.spikeseed.cloud/packages/monthly/2023-1"
+
+== Specifying file formats:
+
+=== Specifying the file format of a daily package, in this example, .tar.gz:
+
+{yyyymmdd}_{yyyynnn}.tar.gz,
+
+where {yyyymmdd} is the OJ S publication date, and {yyyynnn} is the OJ S number
+
+*Example:* daily package of the OJ S 1 / 2023:
+
+*20230102_2023001.tar.gz*
+
+=== Specifying the file format of a monthly package, in this example, tar.gz:
+
+{yyyy}_{mm}.tar.gz,
+
+where {yyyy} is the year and {mm} is the month
+
+*Example:* monthly package of January 2023
+
+*2023_01.tar.gz*
+
+
+NOTE: The XML packages contain XML files numbered in two ways:
+
+* eForms notices the XML files have 8 digits followed by the year (e.g. 00654321_2022.xml)
+
+* TED schema notices the XML files have 6 digits followed by the year (e.g. 123456_2022.xml)
+
+== Download notices in any format using direct links:
+
+A user can download a notice using direct link in the formats listed below and in any EU official languages:
+* HTML
+* HTML download
+* Signed PDF
+* Non-signed PDF
+* XML
+
+
+The format HTML download is a feature introduced in late 2023. This removes the need for an API on the TED portal to render a notice.
+
+From late 2023 onwards, there will be only one API that can be used to render eForms notices in PDF or HTML, the
+https://viewer.ted.europa.eu/swagger-ui/index.html[Swagger UI]
+
+For more information, read the https://docs.ted.europa.eu/api/index.html[TED Developer Documentation].
+
+=== Procedure:
+
+-	From any notice view page:
+-	click ‘Show the direct link’
+
+image::../images/bulk3.png[]
+-	A pop-up window lists the available formats of the direct links:
+-	HTML
+-	HTML download
+-	Signed PDF
+-	Non-signed PDF
+-	XML
+
+image::../images/bulk4.png[]
+
+Note: The 'Signed PDF' link is only displayed when the user interface is set to the official language of the notice.
+
+//pg 10 of presentation:
+
+•	Format of the URLs of the direct link:
+-	https://{ted-url}/{lang}/notice/{publication-number}/{format}
+-	where:
+-	{lang} is the language
+-	{publication-number} is the publication number
+-	{format} can be :
+-	html: to display the HTML download file
+-	pdf: to download the notice as PDF
+-	pdfs: to download the notice as signed PDF
+-	xml: to download the notice as XML.
+
+•	Direct link of the notice view page: https://{ted-url}/{lang}/notice/-/detail/{publication-number}
+•	Backward compatibility with the current TED:
+-	Example :
+-	https://gamma.tedv2.spikeseed.cloud/udl?uri=TED:NOTICE:735065-2022:TEXT:EN:HTML
+-	https://gamma.tedv2.spikeseed.cloud/en/notice/-/detail/735065-2022
+
+
+
+
+
+

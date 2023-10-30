@@ -1,24 +1,40 @@
-:doctitle: Downloading Bulk Notices
+:doctitle: Downloading xml Bulk Notices
 //:doccode: repo_branch_status_docnumber
 // e.g. epo_v4.0.0_prod_123 (draft/ review/prod/archived)
 //:author: author
 //:authoremail: author@email
 //:docdate: docdate
 
+To download the bulk xml files (packages) from the TED Portal:
 
-* Daily packages: files containing all the notices in xml format submitted on a particular day.
-* Monthly packages: files containing all the notices, in xml format, submitted in a particular  month.
+. From the https://gamma.tedv2.spikeseed.cloud/[home page], expand "Open Data" in the left-hand menu.
 
-The daily and monthly packages can be downloaded using HTTPS.
--	The file packages can downloads via the user interface or using a direct link.
+image::../images/bulk1.png[]
+
+Select "XML bulk download" from the sub-menu.
+
+[start=2]
+. From ‘XML bulk download’ page:
+.. select the tab ‘Daily packages’ or ‘Monthly packages’
+
+image::../images/bulk2.png[]
+
+.. select the year and month required
+.. scroll down the page to select the package
+.. click on the Download button to download the package
 
 
-[TIP]
+NOTE:
+
 ====
-No need to sign in to download the daily or monthly packages.
+*Daily packages:* files containing all the notices in xml format submitted on a particular day.
+
+*Monthly packages:* files containing all the notices, in xml format, submitted in a particular  month.
+
+(No need to sign in to download the daily or monthly packages.)
 ====
 
-[NOTE]
+IMPORTANT:
 ====
-The ftp #server# (service?) is not available in the TED portal
+The ftp #server# (service?) is not available in the TED Portal.
 ====

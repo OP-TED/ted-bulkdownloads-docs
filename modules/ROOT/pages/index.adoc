@@ -13,23 +13,31 @@
 
 Bulk download of notices in xml format in daily or monthly packages can be done from the TED portal, or in any format via html using direct links. In addition, the Search API can be used in different modes to query Notice data. Click on the links below for more detail using each method.
 
-[.tile]
-.Mapping Suites
-****
-The TED-RDF Mappings are the transformation rules needed by the TED-RDF Conversion Pipeline (both of which are part of the TED-SWS) to convert TED notices available in XML format to RDF.
-Mapping Suites and Mapping Suite Packages are explained in this section.
-
-
-<<SWS:ROOT:mapping_suite/index.adoc#, Read the docs>>
-****
-
+[.tile-container]
+--
 
 [.tile]
-.Reusing semantic web service artefacts
+.Bulk xml Downloads via the TED Portal
 ****
-This section provides a set of examples that demonstrate how to extract TED RDF data from CELLAR via the SPARQL Endpoint, or by using tools like Excel, Python, or R.
+Intro for bulk xml downloads here...
 
-<<SWS:ROOT:sample_app/index.adoc#, Read the docs>>
+<<bulkdownloads:ROOT:download-xml.adoc#, Read the docs>>
 ****
 
+
+[.tile]
+.Bulk downloads using direct links
+****
+Intro text for direct links here...
+
+<<bulkdownloads:ROOT:sample_app/download-direct.adoc#, Read the docs>>
+****
+
+[.tile]
+.Bulk downloads using the Search API
+****
+Intro text for Search API here...
+
+<<bulkdownloads:ROOT:search-api.adoc#, Read the docs>>
+****
 --

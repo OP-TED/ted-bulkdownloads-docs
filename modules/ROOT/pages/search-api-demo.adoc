@@ -1,0 +1,23 @@
+:doctitle: Search-API Demos
+
+== Search mode: pagination
+
+*Example:*
+Find notices of the OJ S 18/2023 where the place of performance is Luxembourg; the result must contain the publication-number, the notice-title, the buyer-name and the form-type.
+
+image::../images/demo1.png[]
+
+image::../images/demo2.png[]
+
+image::../images/demo3.png[]
+
+== Search mode: iteration
+
+*Example:*
+Find notices where the place of performance is Luxembourg; the result must contain the publication-number.
+
+image::../images/demo4.png[]
+
+image::../images/demo5.png[]
+
+image::../images/demo6.png[]
