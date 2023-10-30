@@ -118,5 +118,4 @@ package.json
 *.ser
 .DS_Store
 .scannerwork/*
-/.asciidoctor/
-/.asciidoctorconfig
+

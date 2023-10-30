@@ -1,4 +1,4 @@
-:doctitle: The TED Bulk Download Documentation
+:doctitle: The TED Bulk Downloads Documentation
 //:doccode: repo_branch_status_docnumber
 // e.g. epo_v4.0.0_prod_123 (draft/ review/prod/archived)
 //:author: author
@@ -9,3 +9,23 @@
 //:author: author
 //:authoremail: author@email
 //:docdate: docdate
+
+
+Bulk download of notices in xml format in daily or monthly packages can be done from the TED portal, or in any format via html using direct links. In addition, the Search API can be used in different modes to query Notice data. Click on the links below for more detail using each method.
+
+* Daily packages: files containing all the notices in xml format submitted on a particular day.
+* Monthly packages: files containing all the notices, in xml format, submitted in a particular  month.
+
+The daily and monthly packages can be downloaded using HTTPS.
+-	The file packages can downloads via the user interface or using a direct link.
+
+
+[TIP]
+====
+No need to sign in to download the daily or monthly packages.
+====
+
+[NOTE]
+====
+The ftp #server# (service?) is not available in the TED portal
+====
