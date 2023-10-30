@@ -1,0 +1,11 @@
+
+
+[TIP]
+====
+No need to sign in to download the daily or monthly packages.
+====
+
+[NOTE]
+====
+The ftp #server# (service?) is not available in the TED portal
+====

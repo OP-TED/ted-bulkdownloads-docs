@@ -1,0 +1,24 @@
+:doctitle: Downloading Bulk Notices
+//:doccode: repo_branch_status_docnumber
+// e.g. epo_v4.0.0_prod_123 (draft/ review/prod/archived)
+//:author: author
+//:authoremail: author@email
+//:docdate: docdate
+
+
+* Daily packages: files containing all the notices in xml format submitted on a particular day.
+* Monthly packages: files containing all the notices, in xml format, submitted in a particular  month.
+
+The daily and monthly packages can be downloaded using HTTPS.
+-	The file packages can downloads via the user interface or using a direct link.
+
+
+[TIP]
+====
+No need to sign in to download the daily or monthly packages.
+====
+
+[NOTE]
+====
+The ftp #server# (service?) is not available in the TED portal
+====

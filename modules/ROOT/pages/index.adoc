@@ -13,19 +13,23 @@
 
 Bulk download of notices in xml format in daily or monthly packages can be done from the TED portal, or in any format via html using direct links. In addition, the Search API can be used in different modes to query Notice data. Click on the links below for more detail using each method.
 
-* Daily packages: files containing all the notices in xml format submitted on a particular day.
-* Monthly packages: files containing all the notices, in xml format, submitted in a particular  month.
+[.tile]
+.Mapping Suites
+****
+The TED-RDF Mappings are the transformation rules needed by the TED-RDF Conversion Pipeline (both of which are part of the TED-SWS) to convert TED notices available in XML format to RDF.
+Mapping Suites and Mapping Suite Packages are explained in this section.
 
-The daily and monthly packages can be downloaded using HTTPS.
--	The file packages can downloads via the user interface or using a direct link.
+
+<<SWS:ROOT:mapping_suite/index.adoc#, Read the docs>>
+****
 
 
-[TIP]
-====
-No need to sign in to download the daily or monthly packages.
-====
+[.tile]
+.Reusing semantic web service artefacts
+****
+This section provides a set of examples that demonstrate how to extract TED RDF data from CELLAR via the SPARQL Endpoint, or by using tools like Excel, Python, or R.
 
-[NOTE]
-====
-The ftp #server# (service?) is not available in the TED portal
-====
+<<SWS:ROOT:sample_app/index.adoc#, Read the docs>>
+****
+
+--
