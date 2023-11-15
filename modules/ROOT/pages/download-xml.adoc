@@ -1,4 +1,4 @@
-:doctitle: Downloading xml Bulk Notices
+:doctitle: Downloading xml Notices in bulk
 //:doccode: repo_branch_status_docnumber
 // e.g. epo_v4.0.0_prod_123 (draft/ review/prod/archived)
 //:author: author
@@ -7,7 +7,7 @@
 
 To download the bulk xml files (packages) from the TED Portal:
 
-. From the https://gamma.tedv2.spikeseed.cloud/[home page], expand "Open Data" in the left-hand menu.
+. From the https://gamma.tedv2.spikeseed.cloud/[TED Portal home page], expand "Open Data" in the left-hand menu.
 
 image::../images/bulk1.png[]
 

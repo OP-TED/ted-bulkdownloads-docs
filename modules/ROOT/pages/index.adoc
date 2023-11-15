@@ -11,7 +11,8 @@
 //:docdate: docdate
 
 
-Bulk download of notices in xml format in daily or monthly packages can be done from the TED portal, or in any format via html using direct links. In addition, the Search API can be used in different modes to query Notice data. Click on the links below for more detail using each method.
+Bulk download of notices in xml format, in daily or monthly packages, can be done from the TED portal. They are also available in html, html download, signed pdf,
+unsigned pdf, and xml, using direct links. In addition, the Search API can be used in different modes to query Notice data. Click on the links below for more detail on the various download method.
 
 [.tile-container]
 --
@@ -19,7 +20,7 @@ Bulk download of notices in xml format in daily or monthly packages can be done 
 [.tile]
 .Bulk xml Downloads via the TED Portal
 ****
-Intro for bulk xml downloads here...
+These are daily or monthly download packages containing all the notices in xml format for that day or month.
 
 <<bulkdownloads:ROOT:download-xml.adoc#, Read the docs>>
 ****
@@ -28,7 +29,7 @@ Intro for bulk xml downloads here...
 [.tile]
 .Bulk downloads using direct links
 ****
-Intro text for direct links here...
+These are daily or monthly download packages containing all the notices for that day or month in html, html download, signed pdf, unsigned pdf, and xml, using specifically formatted urls. They are available in any EU language.
 
 <<bulkdownloads:ROOT:sample_app/download-direct.adoc#, Read the docs>>
 ****
@@ -36,7 +37,7 @@ Intro text for direct links here...
 [.tile]
 .Bulk downloads using the Search API
 ****
-Intro text for Search API here...
+The Search API enables users to search via Swagger UI, or Request URL for notices over any time period.
 
 <<bulkdownloads:ROOT:search-api.adoc#, Read the docs>>
 ****
