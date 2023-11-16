@@ -8,7 +8,7 @@
 //* xref:audience.adoc[Target Audience]
 
 * [.separated]#**Access Methods**#
-* xref:bulkdownloads::download-xml.adoc[Bulk xml downloads]
+* xref:bulkdownloads::download-xml.adoc[xml Downloads]
 * xref:bulkdownloads::download-direct.adoc[Direct downloads via html links]
 * xref:bulkdownloads::search-api.adoc[Downloads via Search API]
 ** xref:bulkdownloads::search-api-demo.adoc[Search API Demo]
