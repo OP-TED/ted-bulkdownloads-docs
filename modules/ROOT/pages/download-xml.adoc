@@ -36,5 +36,5 @@ NOTE:
 
 IMPORTANT:
 ====
-The ftp #server# (service?) is not available in the TED Portal.
+The ftp service is not available in the TED Portal.
 ====
