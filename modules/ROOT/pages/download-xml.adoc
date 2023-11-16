@@ -5,7 +5,7 @@
 //:authoremail: author@email
 //:docdate: docdate
 
-To download the bulk xml files (packages) from the TED Portal:
+To download xml files (packages) via the TED Portal:
 
 . From the https://gamma.tedv2.spikeseed.cloud/[TED Portal home page], expand "Open Data" in the left-hand menu.
 

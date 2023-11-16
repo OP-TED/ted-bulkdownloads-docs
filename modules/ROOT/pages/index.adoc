@@ -1,4 +1,4 @@
-:doctitle: The TED Bulk Downloads Documentation
+:doctitle: Downloading Notices en Masse
 //:doccode: repo_branch_status_docnumber
 // e.g. epo_v4.0.0_prod_123 (draft/ review/prod/archived)
 //:author: author
@@ -11,14 +11,14 @@
 //:docdate: docdate
 
 
-Bulk download of notices in xml format, in daily or monthly packages, can be done from the TED portal. They are also available in html, html download, signed pdf,
-unsigned pdf, and xml, using direct links. In addition, the Search API can be used in different modes to query Notice data. Click on the links below for more detail on the various download method.
+Download of notices in xml format, in daily or monthly packages, can be done from the TED Portal. They are also available in html, html download, signed pdf,
+unsigned pdf, and xml, using direct links. In addition, the Search API can be used in different modes to query notice data. Click on the links below for more detail on the various download methods.
 
 [.tile-container]
 --
 
 [.tile]
-.Bulk xml downloads via the TED Portal
+.Downloading via the TED Portal
 ****
 These are daily or monthly download packages containing all the notices in xml format for that day or month.
 
@@ -27,7 +27,7 @@ These are daily or monthly download packages containing all the notices in xml f
 
 
 [.tile]
-.Bulk downloads using direct links
+.Downloading using Direct Links
 ****
 These are daily or monthly download packages containing all the notices for that day or month in html, html download, signed pdf, unsigned pdf, and xml, using specifically formatted urls. They are available in any EU language.
 
@@ -35,7 +35,7 @@ These are daily or monthly download packages containing all the notices for that
 ****
 
 [.tile]
-.Bulk downloads using the Search API
+.Downloading using the Search API
 ****
 The Search API enables users to search via the Swagger UI, or the Request URL for notices over any time period.
 
