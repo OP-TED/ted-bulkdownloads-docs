@@ -4,12 +4,12 @@ Two options are available using the Search API:
 
 *Swagger UI* - https://api.gamma.tedv2.spikeseed.cloud/swagger-ui/index.html
 
-image::../images/bulk5.png[]
+image::bulk5.png[]
 
 *Request URL* - https://api.gamma.tedv2.spikeseed.cloud/v3/notices/search
 
 
-image::../images/bulk6.png[]
+image::bulk6.png[]
 
 == Two Search modes available
 

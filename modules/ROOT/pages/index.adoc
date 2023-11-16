@@ -18,7 +18,7 @@ unsigned pdf, and xml, using direct links. In addition, the Search API can be us
 --
 
 [.tile]
-.Bulk xml Downloads via the TED Portal
+.Bulk xml downloads via the TED Portal
 ****
 These are daily or monthly download packages containing all the notices in xml format for that day or month.
 
@@ -37,7 +37,7 @@ These are daily or monthly download packages containing all the notices for that
 [.tile]
 .Bulk downloads using the Search API
 ****
-The Search API enables users to search via Swagger UI, or Request URL for notices over any time period.
+The Search API enables users to search via the Swagger UI, or the Request URL for notices over any time period.
 
 <<bulkdownloads:ROOT:search-api.adoc#, Read the docs>>
 ****

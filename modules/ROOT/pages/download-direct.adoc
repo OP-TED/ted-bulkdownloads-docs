@@ -78,7 +78,7 @@ For more information, read the https://docs.ted.europa.eu/api/index.html[TED Dev
 
 * From any notice view page, click ‘*Show the direct links*’
 
-image::../images/bulk3.png[]
+image::bulk3.png[]
 * A pop-up window will appear listing the available formats of the direct links:
 ** HTML
 ** HTML download
@@ -86,7 +86,7 @@ image::../images/bulk3.png[]
 ** Non-signed PDF
 ** XML
 
-image::../images/bulk4.png[]
+image::bulk4.png[]
 
 NOTE: The 'Signed PDF' link is only displayed when the user interface is set to the official language of the notice.
 
