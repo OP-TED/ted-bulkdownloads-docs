@@ -31,7 +31,7 @@ These are daily or monthly download packages containing all the notices in xml f
 ****
 These are daily or monthly download packages containing all the notices for that day or month in html, html download, signed pdf, unsigned pdf, and xml, using specifically formatted urls. They are available in any EU language.
 
-<<bulkdownloads:ROOT:sample_app/download-direct.adoc#, Read the docs>>
+<<bulkdownloads:ROOT:download-direct.adoc#, Read the docs>>
 ****
 
 [.tile]

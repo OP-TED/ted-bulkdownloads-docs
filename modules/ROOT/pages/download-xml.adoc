@@ -9,7 +9,7 @@ To download the bulk xml files (packages) from the TED Portal:
 
 . From the https://gamma.tedv2.spikeseed.cloud/[TED Portal home page], expand "Open Data" in the left-hand menu.
 
-image::../images/bulk1.png[]
+image::bulk1.png[]
 
 Select "XML bulk download" from the sub-menu.
 
@@ -17,7 +17,7 @@ Select "XML bulk download" from the sub-menu.
 . From ‘XML bulk download’ page:
 .. select the tab ‘Daily packages’ or ‘Monthly packages’
 
-image::../images/bulk2.png[]
+image::bulk2.png[]
 
 .. select the year and month required
 .. scroll down the page to select the package
