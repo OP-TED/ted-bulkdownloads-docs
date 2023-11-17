@@ -1,6 +1,6 @@
-name: bulkdownloads
+name: noticedownloads
 version: ~
-title: TED Bulk Downloads
+title: Downloading Notices for Reusers
 start_page: ROOT:index.adoc
 asciidoc:
   attributes:
