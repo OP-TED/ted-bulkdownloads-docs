@@ -22,7 +22,7 @@ unsigned pdf, and xml, using direct links. In addition, the Search API can be us
 ****
 These are daily or monthly download packages containing all the notices in xml format for that day or month.
 
-<<bulkdownloads:ROOT:download-xml.adoc#, Read the docs>>
+<<noticedownloads:ROOT:download-xml.adoc#, Read the docs>>
 ****
 
 
@@ -31,7 +31,7 @@ These are daily or monthly download packages containing all the notices in xml f
 ****
 These are daily or monthly download packages containing all the notices for that day or month in html, html download, signed pdf, unsigned pdf, and xml, using specifically formatted urls. They are available in any EU language.
 
-<<bulkdownloads:ROOT:download-direct.adoc#, Read the docs>>
+<<noticedownloads:ROOT:download-direct.adoc#, Read the docs>>
 ****
 
 [.tile]
@@ -39,6 +39,6 @@ These are daily or monthly download packages containing all the notices for that
 ****
 The Search API enables users to search via the Swagger UI, or the Request URL for notices over any time period.
 
-<<bulkdownloads:ROOT:search-api.adoc#, Read the docs>>
+<<noticedownloads:ROOT:search-api.adoc#, Read the docs>>
 ****
 --
