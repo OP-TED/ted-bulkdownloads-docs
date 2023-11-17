@@ -1,6 +1,6 @@
 name: noticedownloads
 version: ~
-title: Downloading Notices for Reusers
+title: Downloading TED Notices
 start_page: ROOT:index.adoc
 asciidoc:
   attributes:
