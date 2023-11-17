@@ -1,4 +1,4 @@
-:doctitle: Downloading Notices en Masse
+:doctitle: Downloading TED Notices for Data Reusers
 //:doccode: repo_branch_status_docnumber
 // e.g. epo_v4.0.0_prod_123 (draft/ review/prod/archived)
 //:author: author
