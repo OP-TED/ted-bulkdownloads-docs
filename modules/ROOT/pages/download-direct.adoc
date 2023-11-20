@@ -17,6 +17,9 @@ where *{yyyynnnnn}* is the *OJ S number*.
 "https://gamma.tedv2.spikeseed.cloud/packages/daily/202300001"
 ----
 
+// "https://ted.europa.eu/packages/daily/202300001"
+
+
 === The URL format for monthly packages is in the following format:
 
 \https://{ted-url}/packages/notice/monthly/{yyyy-n},
@@ -28,6 +31,7 @@ where *{yyyy-n}* is *the year and the month*.
 ----
 "https://gamma.tedv2.spikeseed.cloud/packages/monthly/2023-1"
 ----
+// "https://ted.europa.eu/packages/monthly/2023-1"
 == Specifying file formats:
 
 === Specifying the file format of a daily package, in this example, .tar.gz:
@@ -118,7 +122,8 @@ https://gamma.tedv2.spikeseed.cloud/udl?uri=TED:NOTICE:735065-2022:TEXT:EN:HTML
 
 https://gamma.tedv2.spikeseed.cloud/en/notice/-/detail/735065-2022
 ----
-
+// "https://ted.europa.eu/udl?uri=TED:NOTICE:735065-2022:TEXT:EN:HTML"
+// "https://ted.europa.eu/en/notice/-/detail/735065-2022"
 *Examples of direct links to Notice 564613-2023 in English (en) and French (fr):*
 
 (for any other EU language, replace "en" or "fr" with the desired language code)
