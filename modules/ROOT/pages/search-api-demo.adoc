@@ -1,4 +1,9 @@
-:doctitle: Search-API Demos
+:doctitle: Demonstrations of the API Search Modes
+:doccode: bdl-main-prod-005
+:author: NPJ
+:authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
+:docdate: November 2023
+
 
 == Search mode: pagination
 
@@ -21,3 +26,5 @@ image::demo4.png[]
 image::demo5.png[]
 
 image::demo6.png[]
+
+include::partial$feedback.adoc[]

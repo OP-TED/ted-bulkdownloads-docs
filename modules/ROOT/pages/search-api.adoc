@@ -1,4 +1,8 @@
-:doctitle: The Search API
+:doctitle: Downloading notices using the Search API
+:doccode: bdl-main-prod-005
+:author: NPJ
+:authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
+:docdate: November 2023
 
 Two options are available using the Search API:
 
@@ -53,5 +57,5 @@ Each result contains data of the fields specified in the request.
 
 Each item contains the list of URLs for the various formats and languages in which the corresponding notice is available.
 
-
+include::partial$feedback.adoc[]
 

@@ -1,8 +1,8 @@
-:doctitle: Navigation
-:doccode: noticedownloads-main-prod-004
+:doctitle: Downloading TED Notices for Data Reusers
+:doccode: bdl-main-prod-004
 :author: NPJ
 :authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
-:docdate: October 2023
+:docdate: November 2023
 
 * xref:noticedownloads::index.adoc[Home]
 //* xref:audience.adoc[Target Audience]

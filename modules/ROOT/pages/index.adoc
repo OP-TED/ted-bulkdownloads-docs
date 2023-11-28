@@ -1,14 +1,8 @@
 :doctitle: Downloading TED Notices for Data Reusers
-//:doccode: repo_branch_status_docnumber
-// e.g. epo_v4.0.0_prod_123 (draft/ review/prod/archived)
-//:author: author
-//:authoremail: author@email
-//:docdate: docdate
-//:doccode: repo_branch_status_docnumber
-// e.g. epo_v4.0.0_prod_123 (draft/ review/prod/archived)
-//:author: author
-//:authoremail: author@email
-//:docdate: docdate
+:doccode: bdl-main-prod-001
+:author: NPJ
+:authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
+:docdate: November 2023
 
 
 Download of notices in xml format, in daily or monthly packages, can be done from the TED Portal. They are also available in html, html download, signed pdf,
