@@ -35,7 +35,7 @@ NOTE:
 
 IMPORTANT:
 ====
-The ftp service is not available on the TED Portal.
+The ftp service is not available on the TED Portal. Archived ftp resources can be found via the link in the left-hand menu.
 ====
 
 include::partial$feedback.adoc[]

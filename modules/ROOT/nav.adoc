@@ -12,3 +12,4 @@
 * xref:noticedownloads::download-direct.adoc[Direct downloads via html links]
 * xref:noticedownloads::search-api.adoc[Downloads via Search API]
 ** xref:noticedownloads::search-api-demo.adoc[Search API Demo]
+* xref:ftp.adoc[ftp Resources]
