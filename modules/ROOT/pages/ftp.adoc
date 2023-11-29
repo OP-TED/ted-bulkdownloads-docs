@@ -58,37 +58,37 @@ xref:attachment$/XML_schema_2.0.9/XML_Labels_Mapping_R209.zip[XML_Labels_Mapping
 
 === XSD_archive
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S01.E01_014-20150909.zip[TED_publication_R2.0.9.S01.E01_014-20150909 - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S01.E01_014-20150909.zip[TED_publication_R2.0.9.S01.E01_014-20150909 - zip file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S01.E01_015-20151029.zip[TED_publication_R2.0.9.S01.E01_015-20151029 - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S01.E01_015-20151029.zip[TED_publication_R2.0.9.S01.E01_015-20151029 - zip file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S01.E01_017-20160113.zip[TED_publication_R2.0.9.S01.E01_017-20160113 - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S01.E01_017-20160113.zip[TED_publication_R2.0.9.S01.E01_017-20160113 - zip file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S01.E01_018-20160420.zip[TED_publication_R2.0.9.S01.E01_018-20160420 - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S01.E01_018-20160420.zip[TED_publication_R2.0.9.S01.E01_018-20160420 - zip file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S01.E01_019-20160603.zip[TED_publication_R2.0.9.S01.E01_019-20160603 - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S01.E01_019-20160603.zip[TED_publication_R2.0.9.S01.E01_019-20160603 - zip file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S01.E01_019-20160603_changelog.xlsx[TED_publication_R2.0.9.S01.E01_019-20160603_changelog - Excel file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S01.E01_019-20160603_changelog.xlsx[TED_publication_R2.0.9.S01.E01_019-20160603_changelog - Excel file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S02.E01_003-20170123.zip[TED_publication_R2.0.9.S02.E01_003-20170123.zip - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S02.E01_003-20170123.zip[TED_publication_R2.0.9.S02.E01_003-20170123.zip - zip file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S02.E01_003-20170123_changelog.xlsx[TED_publication_R2.0.9.S02.E01_003-20170123_changelog - Excel file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S02.E01_003-20170123_changelog.xlsx[TED_publication_R2.0.9.S02.E01_003-20170123_changelog - Excel file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S03.E01_006-20180608.zip[TED_publication_R2.0.9.S03.E01_006-20180608 - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD__archive/TED_publication_R2.0.9.S03.E01_006-20180608.zip[TED_publication_R2.0.9.S03.E01_006-20180608 - zip file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S03.E01_006-20180608_changelog.xlsx[TED_publication_R2.0.9.S03.E01_006-20180608_changelog - Excel file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S03.E01_006-20180608_changelog.xlsx[TED_publication_R2.0.9.S03.E01_006-20180608_changelog - Excel file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S03.E01_007-20181030.zip[TED_publication_R2.0.9.S03.E01_007-20181030 - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S03.E01_007-20181030.zip[TED_publication_R2.0.9.S03.E01_007-20181030 - zip file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S03.E01_007-20181030_changelog.xlsx[TED_publication_R2.0.9.S03.E01_007-20181030_changelog - Excel file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S03.E01_007-20181030_changelog.xlsx[TED_publication_R2.0.9.S03.E01_007-20181030_changelog - Excel file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S03.E01_009-20190628.zip[TED_publication_R2.0.9.S03.E01_009-20190628 - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S03.E01_009-20190628.zip[TED_publication_R2.0.9.S03.E01_009-20190628 - zip file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S03.E01_009-20190628_changelog.xlsx[TED_publication_R2.0.9.S03.E01_009-20190628_changelog - Excel file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S03.E01_009-20190628_changelog.xlsx[TED_publication_R2.0.9.S03.E01_009-20190628_changelog - Excel file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S03.E01_010-20200224.zip[TED_publication_R2.0.9.S03.E01_010-20200224 - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S03.E01_010-20200224.zip[TED_publication_R2.0.9.S03.E01_010-20200224 - zip file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_current/TED_publication_R2.0.9.S03.E01_010-20200224_changelog.xlsx[TED_publication_R2.0.9.S03.E01_010-20200224_changelog - Excel file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S03.E01_010-20200224_changelog.xlsx[TED_publication_R2.0.9.S03.E01_010-20200224_changelog - Excel file]
 
 === XSD_current
 
