@@ -6,7 +6,7 @@
 
 This page contains archived ftp resources formerly on the .... page. Click on the files to download them.
 
-xref:{attachmentsdir}/TED-XML_general_description_v2.0_20160219.pdf[TED XML General Description]
+xref:{attachmentsdir}TED-XML_general_description_v2.0_20160219.pdf[TED XML General Description]
 
 xref:../ftp/TED HTTP and FTP Usage thresholds.pdf[TED HTTP and FTP Usage thresholds]
 
