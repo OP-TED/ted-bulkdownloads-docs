@@ -6,7 +6,7 @@
 
 This page contains archived ftp resources formerly on the .... page. Click on the files to download them.
 
-xref:../ftp/TED-XML_general_description_v2.0_20160219.pdf[TED XML General Description]
+xref:{attachmentsdir}/TED-XML_general_description_v2.0_20160219.pdf[TED XML General Description]
 
 xref:../ftp/TED HTTP and FTP Usage thresholds.pdf[TED HTTP and FTP Usage thresholds]
 
@@ -32,7 +32,7 @@ xref:../ftp/XML_schema_2.0.8/XSD_archive/TED_publication_R2.0.8.S02.E01_015-2016
 
 xref:../ftp/XML_schema_2.0.8/XSD_archive/TED_publication_R2.0.8.S02.E01_015-20161124_changelog.xlsx[TED_publication_R2.0.8.S02.E01_015-20161124_changelog - Excel file]
 
-xref:../ftp/XML_schema_2.0.8/XSD_archive/TED_publication_R2.0.8.S03.E01_002-20161216.zip[TED_publication_R2.0.8.S03.E01_002-20161216 - zip file]
+xref:{attachmentsdir}/XML_schema_2.0.8/XSD_archive/TED_publication_R2.0.8.S03.E01_002-20161216.zip[TED_publication_R2.0.8.S03.E01_002-20161216 - zip file]
 
 xref:../ftp/XML_schema_2.0.8/XSD_archive/TED_publication_R2.0.8.S03.E01_002-20171128.zip[TED_publication_R2.0.8.S03.E01_002-20171128 - zip file]
 
