@@ -70,7 +70,7 @@ xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S01.E01_019
 
 xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S01.E01_019-20160603_changelog.xlsx[TED_publication_R2.0.9.S01.E01_019-20160603_changelog - Excel file]
 
-xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S02.E01_003-20170123.zip[TED_publication_R2.0.9.S02.E01_003-20170123.zip - zip file]
+xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S02.E01_003-20170123.zip[TED_publication_R2.0.9.S02.E01_003-20170123 - zip file]
 
 xref:attachment$/XML_schema_2.0.9/XSD_archive/TED_publication_R2.0.9.S02.E01_003-20170123_changelog.xlsx[TED_publication_R2.0.9.S02.E01_003-20170123_changelog - Excel file]
 
