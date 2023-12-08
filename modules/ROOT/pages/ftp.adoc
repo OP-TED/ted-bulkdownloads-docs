@@ -1,4 +1,4 @@
-:doctitle: ftp Resources
+:doctitle: ftp Archive
 :doccode: bdl-main-prod-007
 :author: NPJ
 :authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu

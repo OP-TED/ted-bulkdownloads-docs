@@ -1,4 +1,4 @@
-:doctitle: Downloading TED Notices for Data Reusers
+:doctitle: Reusing TED Data
 :doccode: bdl-main-prod-001
 :author: NPJ
 :authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
