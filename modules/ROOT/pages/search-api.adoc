@@ -6,11 +6,11 @@
 
 Two options are available using the Search API:
 
-*Swagger UI* - https://api.gamma.tedv2.spikeseed.cloud/swagger-ui/index.html
+*Swagger UI* - https://api.ted.europa.eu/swagger-ui/index.html
 
 image::bulk5.png[]
 
-*Request URL* - https://api.gamma.tedv2.spikeseed.cloud/v3/notices/search
+*Request URL* - https://api.ted.europa.eu/v3/notices/search
 
 
 image::bulk6.png[]

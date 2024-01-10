@@ -6,7 +6,7 @@
 
 To download XML files (packages) via the TED Portal:
 
-. From the https://gamma.tedv2.spikeseed.cloud/[TED Portal home page], expand "Open Data" in the left-hand menu.
+. From the https://ted.europa.eu/[TED Portal home page], expand "Open Data" in the left-hand menu.
 
 image::bulk1.png[]
 
