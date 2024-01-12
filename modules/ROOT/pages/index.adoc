@@ -5,8 +5,10 @@
 :docdate: November 2023
 
 
-Download of notices in xml format, in daily or monthly packages, can be done from the TED Portal. They are also available in html, html download, signed pdf,
-unsigned pdf, and xml, using direct links. In addition, the Search API can be used in different modes to query notice data. Click on the links below for more detail on the various download methods.
+Download of notices in xml format, in daily or monthly packages, can be done from the TED Portal. Notices are also available in html, html download, signed pdf,
+unsigned pdf, and xml, using direct links.
+
+In addition, the Search API can be used in different modes to query notice data. Click on the links below for more detail on the various download methods.
 
 [.tile-container]
 --
