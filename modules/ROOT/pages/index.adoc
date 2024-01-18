@@ -50,6 +50,6 @@ Download bulk notice packages using a direct link
 * xref:search-api.adoc[Downloads via Search API] +
 Download notices via the Search API
 * xref:search-api-demo.adoc[Examples using the Search API] +
-Se some examples of how to use the Search API
+See some examples of how to use the Search API
 * xref:ftp.adoc[TED schemas archive] +
 This page contains the TED schemas archive resources
