@@ -1,4 +1,4 @@
-:doctitle: Demonstrations of the API Search Modes
+:doctitle: Examples using the Search API
 :doccode: bdl-main-prod-005
 :author: NPJ
 :authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu

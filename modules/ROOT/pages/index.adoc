@@ -10,6 +10,7 @@ unsigned pdf, and xml, using direct links.
 
 In addition, the Search API can be used in different modes to query notice data. Click on the links below for more detail on the various download methods.
 
+////
 [.tile-container]
 --
 
@@ -38,3 +39,17 @@ The Search API enables users to search via the Swagger UI, or the Request URL fo
 <<noticedownloads:ROOT:search-api.adoc#, Read the docs>>
 ****
 --
+////
+
+== Access Methods
+
+* xref:download-xml.adoc[XML Downloads] +
+Bulk downloads in FTP format
+* xref:download-direct.adoc[Direct downloads via html links] +
+Download bulk notice packages using a direct link
+* xref:search-api.adoc[Downloads via Search API] +
+Download notices via the Search API
+* xref:search-api-demo.adoc[Examples using the Search API] +
+Se some examples of how to use the Search API
+* xref:ftp.adoc[FTP resources]
+Access archived ftp resources
