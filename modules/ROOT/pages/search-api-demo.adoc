@@ -1,0 +1,34 @@
+:doctitle: Examples using the Search API
+:doccode: bdl-main-prod-005
+:author: NPJ
+:authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
+:docdate: November 2023
+
+
+== Search mode: pagination
+NOTE: Images shown on this page are from the pre-release review site, gama.tedv2.spikeseed.cloud. The live site will be ted.europa.eu. The images will be updated asap post go-live.
+
+*Example:*
+
+Find notices of the OJ S 18/2023 where the place of performance is Luxembourg; the result must contain the publication-number, the notice-title, the buyer-name and the form-type.
+
+image::demo1.png[]
+
+image::demo2.png[]
+
+image::demo3.png[]
+
+== Search mode: iteration
+
+NOTE: Images shown on this page are from the pre-release review site, gama.tedv2.spikeseed.cloud. The live site will be ted.europa.eu. The images will be updated asap post go-live.
+
+*Example:*
+Find notices where the place of performance is Luxembourg; the result must contain the publication-number.
+
+image::demo4.png[]
+
+image::demo5.png[]
+
+image::demo6.png[]
+
+include::partial$feedback.adoc[]

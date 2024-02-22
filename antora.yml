@@ -1,0 +1,9 @@
+name: noticedownloads
+version: ~
+title: Downloading TED Notices
+start_page: ROOT:index.adoc
+asciidoc:
+  attributes:
+    page-toclevels: 6@
+nav:
+- modules/ROOT/nav.adoc
