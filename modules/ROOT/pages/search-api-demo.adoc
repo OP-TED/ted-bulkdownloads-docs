@@ -35,7 +35,7 @@ The query submitted:
 
 image::itter1.png[]
 
-Query confirmation fby the server:
+Query confirmation by the server:
 
 image::itter2.png[]
 
