@@ -4,20 +4,12 @@
 :authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
 :docdate: November 2023
 
-Two options are available using the Search API:
+Detailed documentation on using the Search API can be found on the Swagger UI Site:
 
-*Swagger UI* - https://api.ted.europa.eu/swagger-ui/index.html
+https://ted.europa.eu/api/documentation/index.html[]
 
-image::bulk5.png[]
-
-*Request URL* - https://api.ted.europa.eu/v3/notices/search
-
-
-image::bulk6.png[]
-
-== Two Search modes available
-
-The Search API offers two search modes:
+ 
+== The Search API offers two search modes:
 
 === Pagination mode, which allows the retrieval of up to 15000 notices for a given query, using pagination.
 
@@ -28,7 +20,7 @@ The Search API offers two search modes:
 
 If a limit is reached, the search API will return an error.
 
-=== Iteration (scroll mode):
+=== Iteration or Scroll mode:
 
 Allows the retrieval of all notices for a given query, without limitations. With this mode, the user calls the search API to retrieve the first result page and a token. This token can then be included in the next query sent to the search API to retrieve the next result page.
 
