@@ -11,7 +11,9 @@ https://ted.europa.eu/api/documentation/index.html[]
  
 == The Search API offers two search modes:
 
-=== Pagination mode, which allows the retrieval of up to 15000 notices for a given query, using pagination.
+=== Pagination mode:
+
+Allows the retrieval of up to 15000 notices for a given query, using pagination.
 
 ==== Limits:
 * Maximum number of retrievable notices: 15k.
