@@ -8,7 +8,7 @@
 
 To download packages via a direct link, the URL needs to be formatted in a specific way:
 
-=== The URL format for daily packages is as follows:
+== The URL format for daily packages is as follows:
 
 \https://{ted-url}/packages/notice/daily/{yyyynnnnn},
 
@@ -24,7 +24,7 @@ where *{yyyynnnnn}* is the *OJ S number*.
 // "https://ted.europa.eu/packages/daily/202300001"
 
 
-=== The URL format for monthly packages is as follows:
+== The URL format for monthly packages is as follows:
 
 \https://{ted-url}/packages/notice/monthly/{yyyy-n},
 

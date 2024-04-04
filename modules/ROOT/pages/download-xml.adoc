@@ -6,14 +6,14 @@
 
 To download XML files (packages) via the TED Portal:
 
-. From the https://ted.europa.eu/[TED Portal home page], expand "Open Data" in the left-hand menu.
+. From the https://ted.europa.eu/[TED Portal home page], and under "Reuse notices" click on "Developer's corner for reusers".
 
-image::bulk1.png[]
+image::reuse.png[]
 
-Select "XML bulk download" from the sub-menu.
+Select "Download XML notices in bulk" from the sub-menu and click on the link "XML bulk download" link.
 
 [start=2]
-. From ‘XML bulk download’ page:
+. From ‘Download XML notices in bulk’ page:
 .. select the tab ‘Daily packages’ or ‘Monthly packages’
 
 image::bulk2.png[]
