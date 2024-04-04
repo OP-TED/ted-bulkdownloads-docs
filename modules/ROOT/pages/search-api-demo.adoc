@@ -4,31 +4,37 @@
 :authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
 :docdate: November 2023
 
+To submit a query, scroll down to the green search bar and click on the arrow on the right-hand side of the bar. The query window will open:
+
+image::bar1.png[]
 
 == Search mode: pagination
-NOTE: Images shown on this page are from the pre-release review site, gama.tedv2.spikeseed.cloud. The live site will be ted.europa.eu. The images will be updated asap post go-live.
 
 *Example:*
 
-Find notices of the OJ S 18/2023 where the place of performance is Luxembourg; the result must contain the publication-number, the notice-title, the buyer-name and the form-type.
+Find notices of the OJS 180/2023 where the place of performance is Germany; the result must contain the publication-number, the notice-title, the buyer-name, and the notice-type (form-type).
 
-image::demo1.png[]
+The query submitted:
+image::pagin1.png[]
 
-image::demo2.png[]
+Query confirmation by the server:
+image::pagin2.png[]
 
-image::demo3.png[]
+The query response:
+image::pagin3.png[]
 
 == Search mode: iteration
-
-NOTE: Images shown on this page are from the pre-release review site, gama.tedv2.spikeseed.cloud. The live site will be ted.europa.eu. The images will be updated asap post go-live.
 
 *Example:*
 Find notices where the place of performance is Luxembourg; the result must contain the publication-number.
 
-image::demo4.png[]
+The query submitted:
+image::itter1.png[]
 
-image::demo5.png[]
+Query confirmation fby the server:
+image::itter2.png[]
 
-image::demo6.png[]
+The query response:
+image::itter3.png[]
 
 include::partial$feedback.adoc[]
