@@ -6,7 +6,7 @@
 
 To download XML files (packages) via the TED Portal:
 
-. From the https://ted.europa.eu/[TED Portal home page], and under "Reuse notices" click on "Developer's corner for Reusers".
+. From the https://ted.europa.eu/[TED Portal home page], and under "Reuse notices" click on "Developers' corner for Reusers".
 
 image::reuse.png[]
 
