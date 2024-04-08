@@ -1,4 +1,4 @@
-name: noticedownloads
+name: reuse
 version: ~
 title: Downloading TED Notices
 start_page: ROOT:index.adoc
