@@ -11,4 +11,4 @@
 * xref:reuse::download-direct.adoc[Direct downloads via html links]
 * xref:reuse::search-api.adoc[Downloads via the Search API]
 * xref:reuse::search-api-demo.adoc[Examples using the Search API]
-* xref:reuse:ftp.adoc[TED schemas archive]
+* xref:reuse::ftp.adoc[TED schemas archive]
