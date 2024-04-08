@@ -5,11 +5,10 @@
 :docdate: November 2023
 
 * xref:noticedownloads::index.adoc[Home]
-//* xref:audience.adoc[Target Audience]
 
 * [.separated]#**Access Methods**#
 * xref:noticedownloads::download-xml.adoc[XML Downloads]
 * xref:noticedownloads::download-direct.adoc[Direct downloads via html links]
-* xref:noticedownloads::search-api.adoc[Downloads via Search API]
+* xref:noticedownloads::search-api.adoc[Downloads via the Search API]
 * xref:noticedownloads::search-api-demo.adoc[Examples using the Search API]
 * xref:ftp.adoc[TED schemas archive]
