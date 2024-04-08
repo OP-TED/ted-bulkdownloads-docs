@@ -4,7 +4,7 @@
 :authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
 :docdate: November 2023
 
-
+Packages of daily or monthly notice document packages can be downloaded via a direct html link.
 
 To download packages via a direct link, the URL needs to be formatted in a specific way:
 
@@ -12,9 +12,9 @@ To download packages via a direct link, the URL needs to be formatted in a speci
 
 \https://{ted-url}/packages/notice/daily/{yyyynnnnn},
 
-where *{yyyynnnnn}* is the *OJ S number*.
+where *{yyyynnnnn}* is the *OJS number*.
 
-*Example:* to download the daily package of the OJ S 1 / 2023, the URL would be:
+*Example:* to download the daily package of the OJS 1 / 2023, the URL would be:
 
 ----
 

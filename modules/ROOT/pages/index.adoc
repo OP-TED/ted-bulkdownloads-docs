@@ -1,45 +1,15 @@
 :doctitle: Reusing TED Data
-:doccode: bdl-main-prod-001
+:doccode: reu-main-prod-001
 :author: NPJ
 :authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
 :docdate: November 2023
 
 
-Download of notices in xml format, in daily or monthly packages, can be done from the TED Portal. Notices are also available in html, html download, signed pdf,
+Download of notices in xml format, in daily or monthly packages, can be done from the https://ted.europa.eu/en/[TED Website]. Notices are also available in html, html download, signed pdf,
 unsigned pdf, and xml, using direct links.
 
 In addition, the Search API can be used in different modes to query notice data. Click on the links below for more detail on the various download methods.
 
-////
-[.tile-container]
---
-
-[.tile]
-.Downloading via the TED Portal
-****
-These are daily or monthly download packages containing all the notices in xml format for that day or month.
-
-<<noticedownloads:ROOT:download-xml.adoc#, Read the docs>>
-****
-
-
-[.tile]
-.Downloading using Direct Links
-****
-These are daily or monthly download packages containing all the notices for that day or month in html, html download, signed pdf, unsigned pdf, and xml, using specifically formatted urls. They are available in any EU language.
-
-<<noticedownloads:ROOT:download-direct.adoc#, Read the docs>>
-****
-
-[.tile]
-.Downloading using the Search API
-****
-The Search API enables users to search via the Swagger UI, or the Request URL for notices over any time period.
-
-<<noticedownloads:ROOT:search-api.adoc#, Read the docs>>
-****
---
-////
 
 == Access Methods
 

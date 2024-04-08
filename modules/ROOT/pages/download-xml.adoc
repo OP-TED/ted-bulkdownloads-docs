@@ -4,9 +4,9 @@
 :authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
 :docdate: November 2023
 
-To download XML files (packages) via the TED Portal:
+To download XML files (packages) via the https://ted.europa.eu/en/[TED Website]:
 
-. From the https://ted.europa.eu/[TED Portal home page], and under "Reuse notices" click on "Developers' corner for Reusers".
+. From the https://ted.europa.eu/en/[TED Website] home page, and under "Reuse notices" click on "Developers' corner for Reusers".
 
 image::reuse.png[]
 
@@ -35,7 +35,7 @@ NOTE:
 
 IMPORTANT:
 ====
-The ftp service is not available on the TED Portal. Archived schema resources can be found via the link in the left-hand menu.
+The ftp service is not available on the https://ted.europa.eu/en/[TED Website]. Archived schema resources can be found via the link in the left-hand menu.
 ====
 
 include::partial$feedback.adoc[]
