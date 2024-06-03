@@ -1,7 +1,7 @@
-# ted-bulkdownloads-docs
-This repository is used for authoring the documentation on performing bulk downloads of TED Notices
+# ted-reuse-docs
+This repository is used for authoring the documentation on reusing TED Notices
 
-To read the TED bulk downloads documentation please visit: https://docs.ted.europa.eu/
+To read the TED reuse documentation please visit: https://docs.ted.europa.eu/
 
 Contributing
 You are more than welcome to help expand and mature this project.
